@@ -1,0 +1,10 @@
+.checkpoint/
+.coverage
+.pytest_cache/
+.tox
+*.egg-info/
+*.pyc
+coverage.xml
+dist/
+extras/makefiles/
+venv/
